@@ -1,0 +1,29 @@
+commit b2c82939ac8c0590e14ff6792da5ca5a88ce16f9
+Author: Edgar Ramos <edgar_nathan@hotmail.com>
+Date:   Tue Jul 4 11:39:17 2017 -0600
+
+    integracion de bootstrap
+
+commit 88d1787c9c975bf07eca52110ffedba39f35d7c6
+Author: Edgar Ramos <edgar_nathan@hotmail.com>
+Date:   Tue Jul 4 11:27:38 2017 -0600
+
+    Se agrego footer
+
+commit b0a5cc6c00313d79d4b82bf4b074e9545e001806
+Author: Edgar Ramos <edgar_nathan@hotmail.com>
+Date:   Tue Jul 4 11:25:17 2017 -0600
+
+    Se agrego footer
+
+commit 7a3c9f79512c780f6cd15b98e5a066cc7e7c76ca
+Author: Edgar Ramos <edgar_nathan@hotmail.com>
+Date:   Tue Jul 4 11:15:33 2017 -0600
+
+    Se agrego titulo a la pagina
+
+commit 1cd513e60215d802141c7e74cf616ac21e3558a8
+Author: Edgar Ramos <edgar_nathan@hotmail.com>
+Date:   Tue Jul 4 11:08:58 2017 -0600
+
+    Estructura inicial del proyecto
